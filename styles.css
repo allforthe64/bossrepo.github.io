@@ -53,7 +53,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 
     #menu-title-3 {
@@ -61,7 +61,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 }
 
@@ -109,7 +109,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 
     #menu-title-3 {
@@ -117,7 +117,7 @@ h1 {
         width: 13%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     } 
 }
 
@@ -160,7 +160,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 
     #menu-title-3 {
@@ -168,6 +168,6 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     } 
 }
